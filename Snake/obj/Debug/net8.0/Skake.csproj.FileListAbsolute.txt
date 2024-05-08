@@ -1,0 +1,14 @@
+/Users/admin/Downloads/RiderProjects/SkakeGame/Skake/bin/Debug/net8.0/Skake
+/Users/admin/Downloads/RiderProjects/SkakeGame/Skake/bin/Debug/net8.0/Skake.deps.json
+/Users/admin/Downloads/RiderProjects/SkakeGame/Skake/bin/Debug/net8.0/Skake.runtimeconfig.json
+/Users/admin/Downloads/RiderProjects/SkakeGame/Skake/bin/Debug/net8.0/Skake.dll
+/Users/admin/Downloads/RiderProjects/SkakeGame/Skake/bin/Debug/net8.0/Skake.pdb
+/Users/admin/Downloads/RiderProjects/SkakeGame/Skake/obj/Debug/net8.0/Skake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Downloads/RiderProjects/SkakeGame/Skake/obj/Debug/net8.0/Skake.AssemblyInfoInputs.cache
+/Users/admin/Downloads/RiderProjects/SkakeGame/Skake/obj/Debug/net8.0/Skake.AssemblyInfo.cs
+/Users/admin/Downloads/RiderProjects/SkakeGame/Skake/obj/Debug/net8.0/Skake.csproj.CoreCompileInputs.cache
+/Users/admin/Downloads/RiderProjects/SkakeGame/Skake/obj/Debug/net8.0/Skake.dll
+/Users/admin/Downloads/RiderProjects/SkakeGame/Skake/obj/Debug/net8.0/refint/Skake.dll
+/Users/admin/Downloads/RiderProjects/SkakeGame/Skake/obj/Debug/net8.0/Skake.pdb
+/Users/admin/Downloads/RiderProjects/SkakeGame/Skake/obj/Debug/net8.0/Skake.genruntimeconfig.cache
+/Users/admin/Downloads/RiderProjects/SkakeGame/Skake/obj/Debug/net8.0/ref/Skake.dll
